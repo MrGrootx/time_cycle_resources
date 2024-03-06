@@ -1,0 +1,9 @@
+<!--If you add more timecyles make sure to increase the num mods for each one-->
+<timecycle_modifier_data version="1.000000">
+    <modifier name="sollumz_timecycle_tutorial" numMods="1" userFlags="0">
+    <!--Timecycle lines go in here-->
+    </modifier>
+        <modifier name="sollumz_timecycle_tutorial_2" numMods="2" userFlags="0">
+    <!--Timecycle lines go in here-->
+    </modifier>
+</timecycle_modifier_data>

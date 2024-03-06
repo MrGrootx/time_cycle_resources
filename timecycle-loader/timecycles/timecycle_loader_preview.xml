@@ -1,0 +1,6 @@
+<!--If you add more timecyles make sure to increase the num mods for each one-->
+<timecycle_modifier_data version="1.000000">
+  <modifier name="showcase" numMods="1" userFlags="0"> 
+		<chrom_aberration_coeff>0.000 0.000</chrom_aberration_coeff>
+  </modifier>
+</timecycle_modifier_data>
